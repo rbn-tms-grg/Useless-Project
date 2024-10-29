@@ -90,3 +90,6 @@ For Hardware:
 - [Name 1]: [Specific contributions]
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
+
+  ---
+Made with ❤️ by Richies at TinkerHub MBCCET Useless Projects 
